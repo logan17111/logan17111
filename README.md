@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hello! I'm Logan
 
-<!--
-**logan17111/logan17111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 IT System & Network apprentice
+- 🌱 Beginner in Shell, PowerShell, and Python scripting
+- 🇫🇷 French
+- 🎵 Music lover
+- 🏀 Sports fan
+- 📚 Anime & Manga enthusiast
+
+I'm passionate about technology and always eager to learn new things. Currently, I'm focusing on building my skills in IT, scripting, and automation.
+
+## Interests
+
+- **IT & Networks:** Exploring system administration, cybersecurity, and network management.
+- **Anime & Manga:** Big fan of Japanese animation and comics.
+- **Music:** Always listening to something new.
+- **Sports:** Enjoy playing and watching various sports.
+
+## Get in Touch
+
+- Twitter: [@LoganO0O](https://twitter.com/LoganO0O)
+
+---
+
+Feel free to connect or check back for future projects!
